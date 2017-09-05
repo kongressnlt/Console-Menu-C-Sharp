@@ -1,0 +1,6 @@
+C:\Users\Пользователь\Desktop\Hooks\samp\TopConsoleMenu\TopConsoleMenu\bin\Debug\TopConsoleMenu.exe.config
+C:\Users\Пользователь\Desktop\Hooks\samp\TopConsoleMenu\TopConsoleMenu\bin\Debug\TopConsoleMenu.exe
+C:\Users\Пользователь\Desktop\Hooks\samp\TopConsoleMenu\TopConsoleMenu\bin\Debug\TopConsoleMenu.pdb
+C:\Users\Пользователь\Desktop\Hooks\samp\TopConsoleMenu\TopConsoleMenu\obj\Debug\TopConsoleMenu.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Hooks\samp\TopConsoleMenu\TopConsoleMenu\obj\Debug\TopConsoleMenu.exe
+C:\Users\Пользователь\Desktop\Hooks\samp\TopConsoleMenu\TopConsoleMenu\obj\Debug\TopConsoleMenu.pdb
