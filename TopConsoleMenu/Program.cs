@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Threading;
 using System.Windows.Forms;
-
+/* Rus: Привет, пользователь yg или иных форумов, мой (@alexuiop1337) проект в открытом доступе, все что мне надо, это чтобы ты оставил эту надпись  
+ Eng: Hey, user of YG or any other forum, my (@alexuiop1337) project is open source, and all that i need is that you just keep this notice*/
+// By Alexuiop1337
 namespace TopConsoleMenu
 {
     class Program
