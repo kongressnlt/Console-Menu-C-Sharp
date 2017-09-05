@@ -1,15 +1,21 @@
 ﻿using System;
 using System.Threading;
 using System.Windows.Forms;
-
+/*
+Hey, user of yougame or any other forum, this project will be supported by me (@Alexuiop1337) for long time, that's why, please,
+ save this comment in your projects, it's all that I need for my work, Thanks!
+Привет, пользователь yougame или любого другого проекта, этот проект будет поддерживаться мной (@Alexuiop1337) еще долго, 
+ по этому, пожалуйста, сохраните этот комментарий в своих проекта, это все что мне надо за мои старания, спасибо!
+*/
+//Was made by Alexuiop1337
 namespace TopConsoleMenu
 {
     class Program
     {
         public static int x = 0;
-        public static string[,] polygon = new string[3, 3];
-        public static string[] tabs = new string[3] { "Aimbot ::", "Esp ::", "Misc ::"};
-        private static bool[] setts = new bool[3] { false, false, false }; //0 - aimbot; 1 - esp, 2, - misc
+        public static string[,] polygon = new string[3, 3]; //наше глваное меню в виде матрицы
+        public static string[] tabs = new string[3] { "Aimbot ::", "Esp ::", "Misc ::"}; //табы в меню
+        private static bool[] setts = new bool[3] { false, false, false }; //0 - aimbot; 1 - esp, 2 - misc это для переключателей
         public static void Render()
         {
             for(int i = 0; i < 3; i++)
